@@ -1,1 +1,6 @@
-.vscode
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+node_modules/
+# 工作区 (按需忽略)
+*.code-workspace
